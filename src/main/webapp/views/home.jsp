@@ -61,7 +61,7 @@
                                 </div>
                             </div>
                             <div class="content-info">
-                                <h3 class="content-title">The Rings of Power</h3>
+                                <h3 class="content-title">Thee Rings of Power</h3>
                                 <div class="content-meta">
                                     <span>S1 • E5</span>
                                     <span class="content-rating">
